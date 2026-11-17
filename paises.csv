@@ -1,0 +1,86 @@
+nombre,poblacion,superficie,continente,capital,moneda,gentilicio
+Argentina,45851378,2780400,América,Buenos Aires,Peso argentino (ARS),argentino/a
+Chile,19859921,756102,América,Santiago,Peso chileno (CLP),chileno/a
+Venezuela,28516896,916445,América,Caracas,Bolívar venezolano (VES),venezolano/a
+Bolivia,12581843,1098581,América,Sucre,Boliviano (BOB),boliviano/a
+Colombia,53425635,1141748,América,Bogotá,Peso colombiano (COP),colombiano/a
+Estados Unidos,341784857,9372610,América,Washington D. C.,Dólar estadounidense (USD),estadounidense
+Canadá,41651653,9984670,América,Ottawa,Dólar canadiense (CAD),canadiense
+El Salvador,6365503,21041,América,San Salvador,Dólar estadounidense (USD),salvadoreño/a
+Nicaragua,7007502,130373,América,Managua,Córdoba nicaragüense (NIO),nicaragüense
+Panamá,4571189,75417,América,Ciudad de Panamá,Balboa panameño (PAB) / Dólar estadounidense (USD),panameño/a
+Brasil,212812405,8515767,América,Brasilia,Real brasileño (BRL),brasileño/a
+Perú,34576665,1285216,América,Lima,Sol peruano (PEN),peruano/a
+Ecuador,18289896,276841,América,Quito,Dólar estadounidense (USD),ecuatoriano/a
+Haití,11906095,27750,América,Puerto Príncipe,Gurde haitiano (HTG),haitiano/a
+México,131946900,1964375,América,Ciudad de México,Peso mexicano (MXN),mexicano/a
+Cuba,10937203,109884,América,La Habana,Peso cubano (CUP),cubano/a
+Guatemala,18687881,108889,América,Ciudad de Guatemala,Quetzal guatemalteco (GTQ),guatemalteco/a
+Costa Rica,5152950,51100,América,San José,Colón costarricense (CRC),costarricense
+Paraguay,7013078,406752,América,Asunción,Guaraní paraguayo (PYG),paraguayo/a
+Jamaica,2837077,10991,América,Kingston,Dólar jamaiquino (JMD),jamaicano/a
+España,49355143,505992,Europa,Madrid,Euro (EUR),español/a
+Portugal,10804871,92090,Europa,Lisboa,Euro (EUR),portugués/portuguesa
+Noruega,5610870,323802,Europa,Oslo,Corona noruega (NOK),noruego/a
+Finlandia,5646436,338424,Europa,Helsinki,Euro (EUR),finlandés/finlandesa
+Suecia,10596620,450295,Europa,Estocolmo,Corona sueca (SEK),sueco/a
+Reino Unido,69487000,242900,Europa,Londres,Libra esterlina (GBP),británico/a
+Alemania,83491249,357114,Europa,Berlín,Euro (EUR),alemán/alemana
+Países Bajos,18087633,41850,Europa,Ámsterdam,Euro (EUR),neerlandés/neerlandesa
+Bélgica,11941781,30528,Europa,Bruselas,Euro (EUR),belga
+Italia,58915656,301336,Europa,Roma,Euro (EUR),italiano/a
+Francia,68720337,551695,Europa,París,Euro (EUR),francés/francesa
+Suiza,9092436,41284,Europa,Berna,Franco suizo (CHF),suizo/a
+Grecia,10413962,131990,Europa,Atenas,Euro (EUR),griego/a
+Letonia,1847785,64559,Europa,Riga,Euro (EUR),letón/letona
+Austria,9208163,83871,Europa,Viena,Euro (EUR),austríaco/a
+Polonia,36435861,312679,Europa,Varsovia,Esloti polaco (PLN),polaco/a
+Lituania,2888774,65300,Europa,Vilna,Euro (EUR),lituano/a
+Rusia,143513328,17098242,Europa,Moscú,Rublo ruso (RUB),ruso/a
+Dinamarca,6009169,43094,Europa,Copenhague,Corona danesa (DKK),danés/danesa
+Croacia,3876200,56594,Europa,Zagreb,Euro (EUR),croata
+Japón,123366734,377930,Asia,Tokio,Yen japonés (JPY),japonés/japonesa
+China,1406585000,9706961,Asia,Pekín,Yuan chino (CNY),chino/a
+Corea del Sur,51684564,100210,Asia,Seúl,Won surcoreano (KRW),surcoreano/a
+Corea del Norte,26571036,120538,Asia,Pionyang,Won norcoreano (KPW),norcoreano/a
+India,1463865525,3287590,Asia,Nueva Delhi,Rupia india (INR),indio/a
+Irán,92417681,1648195,Asia,Teherán,Rial iraní (IRR),iraní
+Qatar,2972215,11586,Asia,Doha,Rial catarí (QAR),catarí
+Arabia Saudita,36973555,2149690,Asia,Riad,Rial saudí (SAR),saudí
+Mongolia,3568978,1564110,Asia,Ulán Bator,Tugrik mongol (MNT),mongol/mongola
+Tailandia,71619863,513120,Asia,Bangkok,Baht tailandés (THB),tailandés/tailandesa
+Irak,47020774,438317,Asia,Bagdad,Dinar iraquí (IQD),iraquí
+Kazajistán,20843754,2724900,Asia,Astana,Tenge kazajo (KZT),kazajo/a
+Siria,25620427,185180,Asia,Damasco,Libra siria (SYP),sirio/a
+Singapur,6111175,710,Asia,Singapur,Dólar singapurense (SGD),singapurense
+Pakistán,255219554,881912,Asia,Islamabad,Rupia pakistaní (PKR),pakistaní
+Nepal,29618118,147181,Asia,Katmandú,Rupia nepalí (NPR),nepalí
+Malasia,35977838,330803,Asia,Kuala Lumpur,Ringgit malasio (MYR),malasio/a
+Jordania,11520684,89342,Asia,Amán,Dinar jordano (JOD),jordano/a
+Israel,10122800,20770,Asia,Jerusalén,Nuevo séquel israelí (ILS),israelí
+Turquía,85878556,783562,Asia,Ankara,Lira turca (TRY),turco/a
+Australia,27614411,7692024,Oceanía,Canberra,Dólar australiano (AUD),australiano/a
+Fiyi,933154,18272,Oceanía,Suva,Dólar fiyiano (FJD),fiyiano/a
+Nueva Zelanda,5324700,270467,Oceanía,Wellington,Dólar neozelandés (NZD),neozelandés/neozelandesa
+Papúa Nueva Guinea,10762817,462840,Oceanía,Port Moresby,Kina (PGK),papú
+Islas Salomón,838645,28896,Oceanía,Honiara,Dólar de las Islas Salomón (SBD),salomonense
+Argelia,47435312,2381741,África,Argel,Dinar argelino (DZD),argelino/a
+Marruecos,38430770,446550,África,Rabat,Dírham marroquí (MAD),marroquí
+Sudáfrica,64747319,1221037,África,Pretoria / Ciudad del Cabo / Bloemfontein,Rand sudafricano (ZAR),sudafricano/a
+Chad,21003705,1284000,África,Yamena,Franco CFA de África Central (XAF),chadiano/a
+Nigeria,237527782,923768,África,Abuja,Naira nigeriana (NGN),nigeriano/a
+Costa de Marfil,32711547,322463,África,Yamusukro,Franco CFA de África Occidental (XOF),marfileño/a
+Egipto,118365995,1002450,África,El Cairo,Libra egipcia (EGP),egipcio/a
+Madagascar,32740678,587041,África,Antananarivo,Ariary malgache (MGA),malgache
+Malí,25198821,1240192,África,Bamako,Franco CFA de África Occidental (XOF),maliense
+Sudán,51662147,1886068,África,Jartum,Libra sudanesa (SDG),sudanés/sudanesa
+Libia,7458555,1759540,África,Trípoli,Dinar libio (LYD),libio/a
+Uganda,51384894,241550,África,Kampala,Chelín ugandés (UGX),ugandés/ugandesa
+Zimbabue,16950795,390757,África,Harare,Oro de Zimbabue (ZWG) / Dólar estadounidense (USD),zimbabuense
+Somalia,19654739,637657,África,Mogadiscio,Chelín somalí (SOS),somalí
+Senegal,18931966,196722,África,Dakar,Franco CFA de África Occidental (XOF),senegalés/senegalesa
+Namibia,3092816,825615,África,Windhoek,Dólar namibio (NAD) / Rand sudafricano (ZAR),namibio/a
+Kenia,57532493,580367,África,Nairobi,Chelín keniano (KES),keniano/a
+Guinea,15099727,245857,África,Conakry,Franco guineano (GNF),guineano/a
+Camerún,29879337,475442,África,Yaundé,Franco CFA de África Central (XAF),camerunés/camerunesa
+Cabo Verde,527326,4033,África,Praia,Escudo caboverdiano (CVE),caboverdiano/a
